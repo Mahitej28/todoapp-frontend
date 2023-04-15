@@ -18,7 +18,7 @@ This project created using the <b>MERN </b>(MongoDB, Express.js, React.js, and N
 
 ## 👀 Screenshots
 <div align="center">
-<img src ="/assets/1.png" width="500px">
+<img src ="/assets/todo.png" width="700px">
 </div>
 
 ## ✍ Author
