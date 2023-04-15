@@ -8,7 +8,9 @@ This project created using the <b>MERN </b>(MongoDB, Express.js, React.js, and N
 
 🔗[Website Link](https://relaxed-croquembouche-a414f4.netlify.app/)
 
-# ⚙️ Steps
+👉🏾 Backend Repo [here](https://github.com/Mahitej28/todoapp-backend)
+
+# ⚙️ Steps for Frontend
 1. Use the <b>git clone</b> command followed by the repository URL to clone the repository to your local machine. 
 2. Once the code is cloned, navigate to the project's directory by typing cd repository-name in the terminal.
 3. Install the dependencies required to run the frontend of the app by running the command <b>npm install</b>.
